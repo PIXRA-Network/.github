@@ -1,12 +1,11 @@
-## Hi there 👋
+![PixraNetwork](https://avatars.githubusercontent.com/u/242115296?s=400&u=0e80330c36ac49ec18f811798ff1dec2234d7fc9&v=4)
+## PixraNetwork Official Github
 
-<!--
+## Description
 
-**Here are some ideas to get you started:**
+PixraNetwork is a Bedrock Edition minigames server offering various minigames such as Bedwars, Skywars, and others. This server is still under development
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Programming Language
+
+[![My Skills](https://skillicons.dev/icons?i=php,java,go&perline=8)](https://skillicons.dev)
+
